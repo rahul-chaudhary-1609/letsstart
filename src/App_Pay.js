@@ -29,10 +29,10 @@ function App() {
           },
           body: JSON.stringify({
             payment_id: "PID-20210614T145942042-5",
-            card_number: "4591150347987836",
+            card_number: "*****50****87***",
             card_exp_month: "10",
             card_exp_year: "2023",
-            card_cvc: "630",
+            card_cvc: "***",
             amount: "10"
           })
       },
